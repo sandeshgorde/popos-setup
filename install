@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "=== Installing packages ==="
+bash scripts/install.sh
+
+echo "=== Restoring configs ==="
+bash scripts/setup.sh
+
+echo "✅ System ready"

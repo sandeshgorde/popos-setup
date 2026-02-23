@@ -1,0 +1,16 @@
+# build outputs
+_build/
+target/
+node_modules/
+
+# cache
+**/Cache/
+**/Logs/
+**/Local/
+
+# temporary
+*.log
+*.tmp
+
+*.save
+*~

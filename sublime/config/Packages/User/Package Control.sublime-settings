@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Scheme - Dracula Neue",
+		"Docker Based Build Systems",
+		"Dockerfile Syntax Highlighting",
+		"EclipseJavaFormatter",
+		"GitGutter",
+		"GitSavvy",
+		"LSP",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"YAML Nav",
+		"YAMLMacros",
+	],
+	"in_process_packages":
+	[
+	],
+}

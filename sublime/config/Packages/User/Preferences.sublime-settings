@@ -1,0 +1,23 @@
+{
+    "theme": "Material-Theme.sublime-theme",
+    "color_scheme": "Dracula Neue Pro (Van Helsing).sublime-color-scheme",
+
+    "font_face": "JetBrains Mono",
+    "font_size": 14,
+    "line_padding_top": 2,
+    "line_padding_bottom": 2,
+
+    "translate_tabs_to_spaces": true,
+    "tab_size": 4,
+
+    "auto_complete": true,
+    "save_on_focus_lost": true,
+    "index_files": true,
+
+    "highlight_line": true,
+    "draw_white_space": "selection",
+    "trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
+    "word_wrap": false,
+
+}

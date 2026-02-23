@@ -1,23 +1,30 @@
-nano README.md
-
 # PopOS Setup
 
 My personal Pop!_OS development environment backup.
 
-Includes:
+## Includes
+
 - GNOME settings
-- keyd keyboard layout
+- Keyd keyboard layout
 - Sublime Text config
-- shell setup
-- package installer
+- Shell setup
+- Package installer
+
+---
 
 ## Setup
-git clone https://github.com/sandeshgorde/popos-setu
 
+```bash
+git clone https://github.com/sandeshgorde/popos-setup.git
 cd popos-setup
 bash scripts/setup.sh
+```
 
-Restore:
+---
 
+## Restore Existing System
+
+```bash
 bash scripts/install.sh
 bash scripts/setup.sh
+```

@@ -12,11 +12,12 @@ Includes:
 - package installer
 
 ## Setup
+git clone https://github.com/sandeshgorde/popos-setu
 
-git clone https://github.com/USERNAME/popos-setup
 cd popos-setup
 bash scripts/setup.sh
 
 Restore:
+
 bash scripts/install.sh
 bash scripts/setup.sh

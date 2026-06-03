@@ -27,9 +27,6 @@ bash scripts/setup.sh
 
 ```bash
 bash popos/gnome/export.sh
-```
-
-Then commit the updated backups.
 
 ---
 

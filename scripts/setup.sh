@@ -8,7 +8,7 @@ cp -r dotfiles/. ~/
 
 # ---- GNOME Settings ----
 echo "Restoring GNOME settings..."
-dconf load / < popos/gnome-settings.dconf
+bash popos/gnome/restore.sh
 
 # ---- keyd config ----
 echo "Restoring keyd..."

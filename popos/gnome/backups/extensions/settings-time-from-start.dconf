@@ -1,0 +1,3 @@
+[/]
+sound-file-map={'soundName': 'string.ogg', 'soundPath': '/usr/share/sounds/gnome/default/alerts/string.ogg'}
+timer-enabled=false

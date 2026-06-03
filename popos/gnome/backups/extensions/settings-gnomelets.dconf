@@ -1,0 +1,11 @@
+[/]
+allow-interaction=true
+dock-support='dash-to-dock'
+dock-z-order=true
+floor-z-order='allow'
+gnomelet-count=1
+gnomelet-scale=40
+gnomelet-type=['Kitten']
+is-enabled=false
+jump-power=15
+reset-trigger=false

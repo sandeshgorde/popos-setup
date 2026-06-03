@@ -1,0 +1,9 @@
+netspeedsimplified@prateekmedia.extension
+openweather-extension@penguin-teal.github.io
+gtk4-ding@smedius.gitlab.com
+pop-shell@system76.com
+vertical-workspaces@G-dH.github.com
+system-monitor@gnome-shell-extensions.gcampax.github.com
+window-list@gnome-shell-extensions.gcampax.github.com
+dock-from-dash@fthx
+bottom-dash-panel@fthx

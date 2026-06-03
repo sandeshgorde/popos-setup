@@ -1,0 +1,16 @@
+[/]
+bartype='Mainland'
+bgalpha=0.90000000000000002
+bguri='file:///usr/share/backgrounds/pop/kate-hazen-pop-retro2.png'
+dark-bguri='file:///usr/share/backgrounds/pop/kate-hazen-pop-retro2.png'
+default-font='Sans 12'
+height=30.0
+import-export=false
+light-bguri='file:///usr/share/backgrounds/pop/kate-hazen-pop-retro1.png'
+margin=4.7999999999999998
+monitor-height=1080
+monitor-width=1920
+pause-reload=false
+reloadstyle=false
+set-overview=false
+trigger-reload=true

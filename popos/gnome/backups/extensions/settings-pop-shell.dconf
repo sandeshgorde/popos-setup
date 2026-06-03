@@ -1,0 +1,7 @@
+[/]
+active-hint=false
+active-hint-border-radius=uint32 0
+gap-inner=uint32 2
+gap-outer=uint32 2
+hint-color-rgba='rgb(255,8,3)'
+tile-by-default=true

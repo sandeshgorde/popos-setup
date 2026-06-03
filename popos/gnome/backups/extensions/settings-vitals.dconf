@@ -1,0 +1,12 @@
+[/]
+hide-icons=false
+hide-zeros=false
+hot-sensors=['_memory_usage_', '__network-rx_max__', '_fan_dell_smm_', '__voltage_avg__', '__temperature_avg__']
+icon-style=0
+menu-centered=false
+position-in-panel=2
+show-battery=false
+show-gpu=false
+show-storage=true
+update-time=2
+use-higher-precision=false

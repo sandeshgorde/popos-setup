@@ -1,0 +1,10 @@
+[/]
+days-forecast=0
+has-run=true
+locs=[(uint32 1, '', uint32 1, ''), (0, 'Amravati, Maharashtra, India', 0, '21.1545412,77.6442962'), (0, 'NEWYORK, 不忍通り, 千駄木三丁目, 千駄木, 文京区, 東京都, 113-0022, 日本', 0, '35.7251496,139.7630049'), (0, '大阪市, 大阪府, 日本', 0, '34.6937569,135.5014539')]
+menu-alignment=64.772727272727266
+my-loc-prov='ipinfoio'
+position-in-panel='right'
+position-index=0
+show-comment-in-panel=true
+show-sunsetrise-in-panel=true

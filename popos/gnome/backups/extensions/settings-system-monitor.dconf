@@ -1,0 +1,6 @@
+[/]
+show-cpu=true
+show-download=false
+show-memory=false
+show-swap=false
+show-upload=false

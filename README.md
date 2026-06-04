@@ -19,7 +19,7 @@
 
 | Neofetch | Home Screen | Recent Apps |
 |:---:|:---:|:---:|
-| ![Neofetch](assets/screenshots/neofetch.png) | ![Home Screen](assets/screenshots/home-screen.png) | ![Home Recent](assets/screenshots/home-recent.png) |
+| ![Neofetch](assets/neofetch.png) | ![Home Screen](assets/home-screen.png) | ![Home Recent](assets/home-recent.png) |
 
 </div>
 
